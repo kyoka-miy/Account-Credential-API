@@ -1,4 +1,4 @@
-package com.example.recruit;
+package com.example.recruit2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

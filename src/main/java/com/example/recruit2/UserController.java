@@ -1,7 +1,7 @@
-package com.example.recruit;
+package com.example.recruit2;
 
-import com.example.recruit.exception.AccountCreationException;
-import com.example.recruit.response.SignupResponse;
+import com.example.recruit2.exception.AccountCreationException;
+import com.example.recruit2.response.SignupResponse;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

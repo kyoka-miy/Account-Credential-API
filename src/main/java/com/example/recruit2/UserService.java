@@ -1,7 +1,7 @@
-package com.example.recruit;
+package com.example.recruit2;
 
-import com.example.recruit.exception.AccountCreationException;
-import com.example.recruit.exception.UserNotFoundException;
+import com.example.recruit2.exception.AccountCreationException;
+import com.example.recruit2.exception.UserNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;

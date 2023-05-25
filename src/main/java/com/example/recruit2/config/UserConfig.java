@@ -1,7 +1,7 @@
-package com.example.recruit.config;
+package com.example.recruit2.config;
 
-import com.example.recruit.User;
-import com.example.recruit.UserRepository;
+import com.example.recruit2.User;
+import com.example.recruit2.UserRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

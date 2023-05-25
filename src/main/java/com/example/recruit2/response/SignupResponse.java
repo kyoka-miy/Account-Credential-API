@@ -1,6 +1,6 @@
-package com.example.recruit.response;
+package com.example.recruit2.response;
 
-import com.example.recruit.User;
+import com.example.recruit2.User;
 
 import java.util.Optional;
 

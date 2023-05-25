@@ -1,4 +1,4 @@
-package com.example.recruit.exception;
+package com.example.recruit2.exception;
 
 public class AccountCreationException extends Exception {
     public AccountCreationException(String message) {

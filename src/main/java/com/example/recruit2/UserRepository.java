@@ -1,4 +1,4 @@
-package com.example.recruit;
+package com.example.recruit2;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
