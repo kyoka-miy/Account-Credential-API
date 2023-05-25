@@ -1,1 +1,1 @@
-web: java -jar target/recruit2-0.0.1-SNAPSHOT.jar
+web: java -Dserver.port=$PORT -jar target/recruit2-0.0.1-SNAPSHOT.jar
